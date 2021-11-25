@@ -1,6 +1,6 @@
 - 👀 I’m looking to collaborate on animated dev teams
 - 📫 How to reach me https://www.linkedin.com/in/govardhana18
-- 👋 Hi, I’m - https://g.dev/govardhana18
+- 👋 You can check - https://g.dev/govardhana18
 
 
 
