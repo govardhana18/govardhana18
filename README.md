@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @govardhana18
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on animated dev temas
+- 👀 I’m looking to collaborate on animated dev teams
 - 📫 How to reach me https://www.linkedin.com/in/govardhana18
+- 👋 Hi, I’m - https://g.dev/govardhana18
+
+
+
+
+
 
 
 
